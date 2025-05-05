@@ -45,15 +45,6 @@
 - **Japji Pandher** – Figma: Home + Contact; HTML: Home; GitHub setup & final presentation  
 - **Anesha Rai** – Figma: About + Resources; HTML: About & Resources; CSS styling, design brief
 
-Each team member made commits and contributed code/design equally.
-
----
-
-## 🔗 Links
-
-- 🔵 **Live Website**: [https://yourusername.github.io/mindstrong-teens](https://yourusername.github.io/mindstrong-teens) *(replace with real URL)*  
-- 🎨 **Figma Prototype**: [https://figma.com/link-to-prototype](https://figma.com/link-to-prototype) *(replace with real URL)*  
-- 📄 **One-Page Summary Sheet**: [Google Doc Link](https://docs.google.com) *(replace with real URL)*  
 
 ---
 
